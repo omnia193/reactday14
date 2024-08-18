@@ -1,0 +1,31 @@
+#maindiv{
+    width: 80%;
+    height: 100%;
+   background-color: white;
+    display: flex;
+    box-sizing: border-box;
+    padding: 2%;
+border-radius: 3%;
+}
+#leftdiv{
+    width: 20%;
+    height: 100%;
+    background-color: bisque;
+}
+#rightdiv{
+    width: 80%;
+    height: 100%;
+   
+}
+#div1{
+    display: flex;
+justify-content: space-between;
+}
+#octocatdiv{
+    display: flex;
+    flex-direction: column;
+}
+#div2>p{
+  font-size: 20px;
+  font-weight: bold;
+}

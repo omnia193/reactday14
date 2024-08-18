@@ -1,0 +1,16 @@
+#navdiv{
+    width: 80%;
+    height: 20%;
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#navdiv >label{
+    font-size: 20px;
+    font-weight: bolder;
+}
+#moondiv{
+    display: flex;
+    column-gap: 10px;
+}
